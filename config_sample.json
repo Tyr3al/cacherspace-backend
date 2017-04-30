@@ -1,0 +1,11 @@
+{
+    "serverSettings": {
+        "port": 3000 
+    },
+    "dbSettings": {
+        "host": "localhost",
+        "user": "dbuser",
+        "password": "s3kreee7",
+        "database": "my_db"
+    }
+}
