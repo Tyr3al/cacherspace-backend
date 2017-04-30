@@ -1,0 +1,1 @@
+Server saves banner files here

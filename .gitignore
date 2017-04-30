@@ -38,3 +38,6 @@ jspm_packages
 
 # Production Config
 config.json
+
+# Ignore test banner
+assets/banner/*.jpg
