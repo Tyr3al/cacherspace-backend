@@ -40,4 +40,5 @@ jspm_packages
 config.json
 
 # Ignore test banner
-assets/banner/*.jpg
+assets/banner
+!assets/banner/readme.txt
