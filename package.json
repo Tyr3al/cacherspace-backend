@@ -19,7 +19,7 @@
     "rest",
     "api",
     "json",
-    "mongodb"
+    "mysql"
   ],
   "author": "Jan Funke",
   "license": "ISC",
@@ -29,7 +29,7 @@
     "cors": "^2.8.3",
     "del": "^2.2.2",
     "express": "^4.15.2",
-    "mongodb": "^2.2.26",
-    "multer": "^1.3.0"
+    "multer": "^1.3.0",
+    "mysql": "^2.13.0"
   }
 }
